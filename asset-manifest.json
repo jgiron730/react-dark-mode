@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-dark-mode/static/css/main.7e466c64.chunk.css",
+    "main.js": "/react-dark-mode/static/js/main.772b104a.chunk.js",
+    "main.js.map": "/react-dark-mode/static/js/main.772b104a.chunk.js.map",
+    "runtime-main.js": "/react-dark-mode/static/js/runtime-main.3739faa6.js",
+    "runtime-main.js.map": "/react-dark-mode/static/js/runtime-main.3739faa6.js.map",
+    "static/js/2.e09a1a28.chunk.js": "/react-dark-mode/static/js/2.e09a1a28.chunk.js",
+    "static/js/2.e09a1a28.chunk.js.map": "/react-dark-mode/static/js/2.e09a1a28.chunk.js.map",
+    "index.html": "/react-dark-mode/index.html",
+    "precache-manifest.a528257349ab3e82b84a528b2dadf1b5.js": "/react-dark-mode/precache-manifest.a528257349ab3e82b84a528b2dadf1b5.js",
+    "service-worker.js": "/react-dark-mode/service-worker.js",
+    "static/css/main.7e466c64.chunk.css.map": "/react-dark-mode/static/css/main.7e466c64.chunk.css.map",
+    "static/media/boqueron.jpg": "/react-dark-mode/static/media/boqueron.bc489fe8.jpg",
+    "static/media/cerro-verde.jpg": "/react-dark-mode/static/media/cerro-verde.d8de7833.jpg",
+    "static/media/coatepeque.jpg": "/react-dark-mode/static/media/coatepeque.26ea0295.jpg",
+    "static/media/costa-sol.jpg": "/react-dark-mode/static/media/costa-sol.e5445759.jpg",
+    "static/media/no.jpg": "/react-dark-mode/static/media/no.006a3452.jpg",
+    "static/media/pital.jpg": "/react-dark-mode/static/media/pital.bff416f1.jpg",
+    "static/media/sunzal.jpg": "/react-dark-mode/static/media/sunzal.d08a76cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3739faa6.js",
+    "static/js/2.e09a1a28.chunk.js",
+    "static/css/main.7e466c64.chunk.css",
+    "static/js/main.772b104a.chunk.js"
+  ]
+}
