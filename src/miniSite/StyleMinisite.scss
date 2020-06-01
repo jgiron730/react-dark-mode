@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@300;400;700;900&display=swap');
+
+.cuadro{ width: 150px; height: 150px; background: #ff7799 ;}
+
+.caja{width: 150px; height: 150px; background: #ff7799; display: grid; grid-template-columns: 1fr 1fr; gap: 2px; position: fixed; z-index: 99; top:0; left: 0;
+    .levelA{background:#000; height: 100%;        
+    }
+}
+
