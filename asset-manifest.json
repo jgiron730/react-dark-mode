@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-dark-mode/static/css/main.7e466c64.chunk.css",
-    "main.js": "/react-dark-mode/static/js/main.772b104a.chunk.js",
-    "main.js.map": "/react-dark-mode/static/js/main.772b104a.chunk.js.map",
+    "main.js": "/react-dark-mode/static/js/main.5fb09703.chunk.js",
+    "main.js.map": "/react-dark-mode/static/js/main.5fb09703.chunk.js.map",
     "runtime-main.js": "/react-dark-mode/static/js/runtime-main.3739faa6.js",
     "runtime-main.js.map": "/react-dark-mode/static/js/runtime-main.3739faa6.js.map",
-    "static/js/2.e09a1a28.chunk.js": "/react-dark-mode/static/js/2.e09a1a28.chunk.js",
-    "static/js/2.e09a1a28.chunk.js.map": "/react-dark-mode/static/js/2.e09a1a28.chunk.js.map",
+    "static/js/2.b31949d7.chunk.js": "/react-dark-mode/static/js/2.b31949d7.chunk.js",
+    "static/js/2.b31949d7.chunk.js.map": "/react-dark-mode/static/js/2.b31949d7.chunk.js.map",
     "index.html": "/react-dark-mode/index.html",
-    "precache-manifest.a528257349ab3e82b84a528b2dadf1b5.js": "/react-dark-mode/precache-manifest.a528257349ab3e82b84a528b2dadf1b5.js",
+    "precache-manifest.d06b49cef089516623fbace23717f865.js": "/react-dark-mode/precache-manifest.d06b49cef089516623fbace23717f865.js",
     "service-worker.js": "/react-dark-mode/service-worker.js",
     "static/css/main.7e466c64.chunk.css.map": "/react-dark-mode/static/css/main.7e466c64.chunk.css.map",
     "static/media/boqueron.jpg": "/react-dark-mode/static/media/boqueron.bc489fe8.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3739faa6.js",
-    "static/js/2.e09a1a28.chunk.js",
+    "static/js/2.b31949d7.chunk.js",
     "static/css/main.7e466c64.chunk.css",
-    "static/js/main.772b104a.chunk.js"
+    "static/js/main.5fb09703.chunk.js"
   ]
 }
